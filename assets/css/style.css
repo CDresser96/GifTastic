@@ -1,9 +1,9 @@
 body {
     margin-top: 75px;
     margin-bottom: 75px;
-    background: linear-gradient(to right, #D6DF23, #00ADEF, #EF5285);
+    background: linear-gradient(to right, #C04848, #480048, #5f2c82);
     text-align: center;
-    /* font family*/
+    font-family: "Dosis";
     text-transform: uppercase;
 }
 
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-    /* font family */
+    font-family: "Notable"; 
     font-size: 55px;
     color: #fff;
 }
@@ -49,7 +49,7 @@ img.squiggle {
     left: 0;
 }
 
-#show-form {
+#topic-form {
     display: inline;
 }
 
